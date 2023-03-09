@@ -25,3 +25,5 @@ const http = {
         }
     }
 }
+
+const DEFAULT_PORT = 5001
