@@ -27,3 +27,7 @@ const http = {
 }
 
 const DEFAULT_PORT = 5001
+module.exports = {
+    http,
+    DEFAULT_PORT
+}
